@@ -1,5 +1,5 @@
 
-const apiKey = "2b8fc2f543b02890c8b7cb1e5f1a5db4"; // Doğrulanmış çalışan key
+const apiKey = "04b3f3816dd9dfe0ea3ce8e8eed68b1f"; // Doğrulanmış çalışan key
 
 document.getElementById("search-btn").addEventListener("click", async () => {
   const city = document.getElementById("city-input").value.trim();
